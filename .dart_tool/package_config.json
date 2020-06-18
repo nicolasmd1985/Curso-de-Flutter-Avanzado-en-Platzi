@@ -233,10 +233,10 @@
       "name": "platzi_trips_app",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.2"
     }
   ],
-  "generated": "2020-04-18T11:32:12.126321Z",
+  "generated": "2020-05-07T12:45:48.826940Z",
   "generator": "pub",
   "generatorVersion": "2.7.2"
 }
